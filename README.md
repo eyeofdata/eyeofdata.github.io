@@ -1,4 +1,4 @@
 eyeofdata.github.io
 ===================
 
-A Blog for data mining and visualization！
+A blog for data mining and visualization！
